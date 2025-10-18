@@ -1,7 +1,7 @@
 (function() {
     let buffer = "";
     const targetPhrase = "ratgoon";
-    const urlToOpen = "JogoHtmlandCSS/Main/Jogo.html";
+    const urlToOpen = "JogoHtmlandCSS/Main/HomePage.html";
   
     document.addEventListener("keydown", function(event) {
       if (event.key.length === 1) {
